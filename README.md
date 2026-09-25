@@ -1,7 +1,7 @@
 # 🧩 System Design Escape Room
 
 <p align="center">
-	<img src="assets/system-design-escape-room-header.png" alt="System Design Escape Room: Diagnose, Decide, Defend, Unlock" width="100%" />
+   <img src="assets/system-design-escape-room-header.png" alt="System Design Escape Room: Diagnose, Decide, Defend, Unlock" width="100%" />
 </p>
 
 > A team-based system design challenge built around realistic production
@@ -25,9 +25,11 @@ designed to be reviewable and shareable without exposing the hidden evidence,
 clue ladders, or answer key.
 
 The room is run using this participant pack alongside the private facilitator
-pack. Participants should read the [room heading](room/room-heading.docx)
-and the relevant scenario before working with the facilitator-provided questions
-and evidence.
+pack. Participants should read the 
+relevant scenario before working with the facilitator-provided questions
+and evidence. The DOCX files are printable participant materials; they can be
+downloaded directly from GitHub, so participants do not need to clone the repo
+just to read or print them.
 
 | Station | Incident | Scenario |
 | --- | --- | --- |
@@ -46,7 +48,7 @@ Each station takes **30 minutes**. Teams should:
 4. **Unlock** that station's code word when all answers are correct.
 
 After all four stations, the team uses the four code words to complete the
-final meta challenge
+final meta challenge.
 
 ## 🔍 How to use the files
 
@@ -54,9 +56,9 @@ For each station:
 
 1. Read the scenario to understand the system, failure mode, and constraints.
 2. Review the complete question and evidence set supplied by the facilitator at
-	the start of the station.
-3. Complete the private question sheet as a team, recording the reasoning behind each
-   decision.
+   the start of the station.
+3. Complete the private question sheet as a team, recording the reasoning
+   behind each decision.
 4. Be prepared to explain which constraints ruled out the alternatives.
 
 ## 📏 Rules of the room
@@ -69,8 +71,8 @@ For each station:
 The room is designed to be solved by reasoning from the scenario and evidence,
 with facilitator guidance used to keep the team moving when needed. The private
 facilitator repository contains the full evidence packs, clues, answer
-sheets, scoring guidance, and private delivery notes. Anyone who might
-who want to run the exercise can message the repository owner to request access.
+sheets, scoring guidance, and private delivery notes. Anyone who wants to run the
+exercise can message the repository owner to request access.
 
 ## 📁 Repository structure
 
