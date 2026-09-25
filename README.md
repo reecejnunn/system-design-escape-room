@@ -12,7 +12,7 @@ needed to unlock the final meta challenge.
 
 This repository is the public, participant-facing pack. It contains the room
 introduction and scenario sheets needed for teams to understand the incidents,
-but it does not contain the hidden evidence, clue ladders, or answer sheets.
+but it does not contain the hidden evidence, clues, or answer sheets.
 
 The full facilitator pack, including question sheets, clue/evidence files,
 answer sheets, and private delivery notes, is kept in a separate private
@@ -46,7 +46,7 @@ Each station takes **30 minutes**. Teams should:
 4. **Unlock** that station's code word when all answers are correct.
 
 After all four stations, the team uses the four code words to complete the
-final meta challenge.
+final meta challenge
 
 ## 🔍 How to use the files
 
@@ -68,8 +68,8 @@ For each station:
 
 The room is designed to be solved by reasoning from the scenario and evidence,
 with facilitator guidance used to keep the team moving when needed. The private
-facilitator repository contains the full evidence packs, clue ladders, answer
-sheets, scoring guidance, and private delivery notes. BBC Engineering Managers
+facilitator repository contains the full evidence packs, clues, answer
+sheets, scoring guidance, and private delivery notes. Anyone who might
 who want to run the exercise can message the repository owner to request access.
 
 ## 📁 Repository structure
